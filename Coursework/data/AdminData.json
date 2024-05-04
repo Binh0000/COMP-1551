@@ -1,0 +1,11 @@
+﻿[
+  {
+    "Name": "Micheal Hunt",
+    "Telephone": "0123456789",
+    "Email": "Hunt@random.com",
+    "UserRole": 2,
+    "Salary": 50000,
+    "IsFullTime": true,
+    "WorkingHour": "17:00"
+  }
+]
